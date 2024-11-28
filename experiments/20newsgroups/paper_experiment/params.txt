@@ -1,0 +1,12 @@
+
+        strata_feature_rank=[3, 3, 3, 3, 3],
+        topics_rank=5,
+        iters=11, 
+        use_same_n_params=True,
+        total_ntf_params=25595,
+        ntf_rank=None,
+        total_snmf_params=None,
+        snmf_rank=None,
+        total_sntf_params=102095,
+        sntf_rank=5
+        
